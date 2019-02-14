@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/Users/pachito/workspace/ev3dev-lang-python/ev3dev"
+    ]
+}
